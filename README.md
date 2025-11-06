@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+About the PeronaMalik  https://github.com/AvailableUsernameA/PeronaMalik   
+Rewrote pixel-wise Python loops into NumPy matrix operations, reducing per-iteration complexity from O(N2) to O(N). Achieved ~6× runtime speedup and integrated into Prof. Ay’s lab pipeline for daily biomedical image denoising.
+
+
+
 About the 'GLUCOSE LEVEL CHANGE POST MEAL', the index is https://crepusidiem.github.io/Meals-and-glucose/  
 the following is my contributions: 
 
