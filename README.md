@@ -1,7 +1,15 @@
 ## Hi there 👋
 
 About the PeronaMalik  https://github.com/AvailableUsernameA/PeronaMalik   
-Rewrote pixel-wise Python loops into NumPy matrix operations, reducing per-iteration complexity from O(N2) to O(N). Achieved ~6× runtime speedup and integrated into Prof. Ay’s lab pipeline for daily biomedical image denoising.
+1.Rewrote pixel-wise Python loops into NumPy matrix operations, reducing per-iteration complexity from O(N2) to O(N). Achieved ~6× runtime speedup  
+2.integrated into Prof. Ay’s lab pipeline for daily biomedical image denoising.  
+
+About the DDS2M https://github.com/AvailableUsernameA/DDS2M   
+1.Applied DDS2M denoising diffusion model to hyperspectral image restoration, enhancing generalization and noise robustness on unseen datasets   
+2.Modified DDS2M to support batch processing of multiple images and adapted it for 3D hyperspectral data  
+3.Conducted 3D image experiments and evaluated results using peak signal-to-noise ratio (PSNR)  
+
+
 
 
 
