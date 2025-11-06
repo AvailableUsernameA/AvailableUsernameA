@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Huiting's code repository 👋
 
 **DDS2M**  https://github.com/AvailableUsernameA/DDS2M   
 1.Applied DDS2M denoising diffusion model to hyperspectral image restoration, enhancing generalization and noise robustness on unseen datasets   
@@ -22,7 +22,7 @@ the following is my contributions:
 
 
 
-**Here are some JavaScript + JSON projects**
+**Here are some JavaScript + JSON projects**  
 About the 'Stress and Exam Scores', the index is https://szhcoco.github.io/the_impact_of_stress   
 the following is my contributions: 
 
