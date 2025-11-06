@@ -16,7 +16,7 @@ This was a personal project, and I'm pleased that it significantly improved the 
 
 
 **GLUCOSE LEVEL CHANGE POST MEAL**  the index is https://crepusidiem.github.io/Meals-and-glucose/  
-the following is my contributions:  
+As a team Leader for 4 members, the following are my contributions:  
 
 <img src="https://github.com/AvailableUsernameA/AvailableUsernameA/blob/main/Meals-and-glucose.PNG" width="400"/>
 
@@ -24,7 +24,7 @@ the following is my contributions:
 
 **Here are some JavaScript + JSON projects**  
 About the 'Stress and Exam Scores', the index is https://szhcoco.github.io/the_impact_of_stress   
-the following is my contributions: 
+The following are my contributions: 
 
 <img src="https://github.com/AvailableUsernameA/AvailableUsernameA/blob/main/the_impact_of_stress.PNG" width="400"/>
 
