@@ -16,19 +16,19 @@ This was a personal project, and I'm pleased that it significantly improved the 
 
 
 **GLUCOSE LEVEL CHANGE POST MEAL**  the index is https://crepusidiem.github.io/Meals-and-glucose/  
-As a team Leader for 4 members, the following are my contributions:  
+Data Science project. As a team Leader for 4 members, the following are my contributions:  
 
 <img src="https://github.com/AvailableUsernameA/AvailableUsernameA/blob/main/Meals-and-glucose.PNG" width="400"/>
 
 
 
 **Here are some JavaScript + JSON projects**  
-About the 'Stress and Exam Scores', the index is https://szhcoco.github.io/the_impact_of_stress   
+Data Science project. About the 'Stress and Exam Scores', the index is https://szhcoco.github.io/the_impact_of_stress   
 The following are my contributions: 
 
 <img src="https://github.com/AvailableUsernameA/AvailableUsernameA/blob/main/the_impact_of_stress.PNG" width="400"/>
 
-About the bikewatching, the index is https://AvailableUsernameA.github.io/bikewatching/
+Data Science project. About the bikewatching, the index is https://AvailableUsernameA.github.io/bikewatching/
 
 
 
